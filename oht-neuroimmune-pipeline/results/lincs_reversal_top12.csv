@@ -1,0 +1,13 @@
+rank,compound,weighted_reversal_score,primary_target_class
+1,KIN001-043,8.93,JNK pathway
+2,AS-601245,8.28,JNK pathway
+3,SB590885,8.15,BRAF
+4,geldanamycin,7.62,HSP90
+5,withaferin-A,7.48,multiple (incl. NF-kB modulation)
+6,TPCA-1,7.24,IKK2/NF-kB
+7,radicicol,6.99,HSP90
+8,BI-2536,6.82,PLK1
+9,crizotinib,6.56,c-MET/ALK
+10,NVP-BEZ235,6.1,PI3K-mTOR
+11,OSI-027,5.8,mTOR
+12,NVP-BGT226,5.6,PI3K-mTOR
