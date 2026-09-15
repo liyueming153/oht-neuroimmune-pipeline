@@ -1,9 +1,0 @@
-scanpy==1.12.3
-liana==1.8.1
-scrublet
-anndata
-pandas
-numpy
-scipy
-matplotlib
-statsmodels
