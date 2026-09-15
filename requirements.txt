@@ -1,0 +1,10 @@
+scanpy==1.12.4
+anndata>=0.10
+liana>=1.8
+scrublet>=0.2.3
+pandas>=2.0
+numpy>=1.26
+scipy>=1.11
+matplotlib>=3.8
+requests>=2.31
+mygene>=3.2
